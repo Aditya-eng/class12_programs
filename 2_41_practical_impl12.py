@@ -21,4 +21,3 @@ print("Even numbers are:",count_stats[0])
 print("Odd numbers are: ",count_stats[1])
 
 
-

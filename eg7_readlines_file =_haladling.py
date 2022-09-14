@@ -1,0 +1,5 @@
+myfile = open ("data.txt" "r")
+contents = myfile.readlines()
+print(contents)
+print("First line is :",contents[0])
+print("Last line is :",contents[len(contents)-1])

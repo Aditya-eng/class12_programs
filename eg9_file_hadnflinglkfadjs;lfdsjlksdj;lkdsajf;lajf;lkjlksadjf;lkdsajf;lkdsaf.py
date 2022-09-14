@@ -1,0 +1,5 @@
+myfile = open("data.IS„","r")
+str = myfile.read()
+size = len(str)
+print("Size of file in bytes,size")
+myfile.close()
